@@ -1,0 +1,9 @@
+com\demo\test\service\UserService.class
+com\demo\test\service\impl\UserServiceImpl.class
+com\demo\test\model\UserExample$Criterion.class
+com\demo\test\mapper\UserMapper.class
+com\demo\test\model\UserExample$GeneratedCriteria.class
+com\demo\test\model\UserExample$Criteria.class
+com\demo\test\controller\UserController.class
+com\demo\test\model\UserExample.class
+com\demo\test\model\User.class
